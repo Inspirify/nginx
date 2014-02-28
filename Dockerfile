@@ -4,7 +4,7 @@
 # 
 # VERSION 0.1
 ############################################################
-FROM ubuntu
+FROM stackbrew/ubuntu
 
 # File Author / Maintainer
 MAINTAINER Tom Li "nklizhe@gmail.com"
